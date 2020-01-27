@@ -1,0 +1,7 @@
+# include all jpeg and jpg as well as .DS_Store
+*.jpeg
+*.Jpeg
+*.gif
+*.png
+
+.DS_Store
