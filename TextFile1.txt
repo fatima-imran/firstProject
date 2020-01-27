@@ -1,0 +1,13 @@
+This is text file 1. 
+
+Edit 1: paulb@sfu.ca
+
+Edit 2: yourta@sfu.ca
+
+
+BR2
+
+
+
+Edit in branch2
+Edit in branch1
