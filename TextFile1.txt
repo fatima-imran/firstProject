@@ -1,12 +1,13 @@
 This is text file 1. 
 
-Edit 1: paulb@sfu.ca
+contact: paulb@sfu.ca
 
-Edit 2: yourta@sfu.ca
+office hour : monday
 
 
 BR2
 
+other coll shit
 
 pretend that thi is important infor
 Edit in branch2
